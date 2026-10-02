@@ -1,12 +1,12 @@
 {
-  "pt_id": "pt_bsl",
-  "pt_name": "PT Bintang Sawit Lestari",
-  "date": "2026-09-12",
+  "pt_id": "pt_pas",
+  "pt_name": "PT Plantindo Agro Subur",
+  "date": "2026-10-02",
   "query_period": {
     "from": "2026-09-03",
     "to": "2026-10-02"
   },
-  "generated_wib": "2026-10-02T07:36:33+07:00",
+  "generated_wib": "2026-10-02T07:36:37+07:00",
   "hotspot_count": 1,
   "features": [
     {
@@ -14,33 +14,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          111.03255,
-          -0.1734
+          114.81779,
+          -2.87932
         ]
       },
       "properties": {
         "confidence": "medium",
         "confidence_value": null,
-        "sumber": "NASA-NOAA20",
-        "date_hotspot": "Sabtu, 12 September 2026 13:18:00",
-        "date_hotspot_ori": "2026-09-12T06:18:00.000000Z",
+        "sumber": "NASA-SNPP",
+        "date_hotspot": "Jumat, 02 Oktober 2026 00:43:00",
+        "date_hotspot_ori": "2026-10-01T17:43:00.000000Z",
         "provinsi": null,
-        "kabkota": "Sekadau",
-        "desa": "Tapang Perodah",
-        "hs_id": "2026-09-12T06:18:00.000000Z",
-        "provinsi_id": 11,
-        "long": 111.03255,
+        "kabkota": "Barito Kuala",
+        "desa": "Banitan",
+        "hs_id": "2026-10-01T17:43:00.000000Z",
+        "provinsi_id": 12,
+        "long": 114.81779,
         "ori_sumber": null,
         "desa_id": null,
-        "counter": 1,
+        "counter": 2,
         "confidence_level": "medium",
         "kawasan": "",
-        "kecamatan": "Sekadau Hulu",
-        "nama_provinsi": "Kalimantan Barat",
+        "kecamatan": "Bakumpai",
+        "nama_provinsi": "Kalimantan Selatan",
         "pulau": "",
         "route_create": "https://opsroom.sipongidata.my.id/daops/laporan/groundcheck/create/form",
-        "hotspot_date": "2026-09-12",
-        "distance_hgu_km": 1.286,
+        "hotspot_date": "2026-10-02",
+        "distance_hgu_km": 1.903,
         "zone": "1–3 km",
         "location_status": "OUTSIDE HGU"
       }

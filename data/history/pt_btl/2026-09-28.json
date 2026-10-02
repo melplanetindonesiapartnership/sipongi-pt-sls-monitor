@@ -3,10 +3,10 @@
   "pt_name": "PT Bumi Tata Lestari",
   "date": "2026-09-28",
   "query_period": {
-    "from": "2026-09-02",
-    "to": "2026-10-01"
+    "from": "2026-09-03",
+    "to": "2026-10-02"
   },
-  "generated_wib": "2026-10-01T07:38:29+07:00",
+  "generated_wib": "2026-10-02T07:36:36+07:00",
   "hotspot_count": 0,
   "features": []
 }
