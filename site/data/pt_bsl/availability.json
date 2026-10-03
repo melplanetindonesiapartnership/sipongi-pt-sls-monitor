@@ -4,9 +4,9 @@
   "province_code": "11",
   "latest_data_date": "2026-09-20",
   "latest_data_count": 10,
-  "query_start": "2026-09-03",
-  "query_end": "2026-10-02",
+  "query_start": "2026-09-04",
+  "query_end": "2026-10-03",
   "timezone": "Asia/Jakarta",
   "source": "SIPONGI KEMENHUT",
-  "last_updated_wib": "2026-10-02T07:36:33+07:00"
+  "last_updated_wib": "2026-10-03T07:34:42+07:00"
 }

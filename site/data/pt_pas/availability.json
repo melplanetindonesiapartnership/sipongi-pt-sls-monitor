@@ -2,11 +2,11 @@
   "pt_id": "pt_pas",
   "pt_name": "PT Plantindo Agro Subur",
   "province_code": "12",
-  "latest_data_date": "2026-10-02",
-  "latest_data_count": 1,
-  "query_start": "2026-09-03",
-  "query_end": "2026-10-02",
+  "latest_data_date": "2026-10-03",
+  "latest_data_count": 10,
+  "query_start": "2026-09-04",
+  "query_end": "2026-10-03",
   "timezone": "Asia/Jakarta",
   "source": "SIPONGI KEMENHUT",
-  "last_updated_wib": "2026-10-02T07:36:37+07:00"
+  "last_updated_wib": "2026-10-03T07:34:44+07:00"
 }
