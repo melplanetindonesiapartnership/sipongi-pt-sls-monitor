@@ -2,11 +2,11 @@
   "pt_id": "pt_sls",
   "pt_name": "PT SLS",
   "province_code": "12",
-  "latest_data_date": "2026-10-03",
-  "latest_data_count": 14,
-  "query_start": "2026-09-05",
-  "query_end": "2026-10-04",
+  "latest_data_date": "2026-10-05",
+  "latest_data_count": 1,
+  "query_start": "2026-09-06",
+  "query_end": "2026-10-05",
   "timezone": "Asia/Jakarta",
   "source": "SIPONGI KEMENHUT",
-  "last_updated_wib": "2026-10-04T10:47:04+07:00"
+  "last_updated_wib": "2026-10-05T07:39:16+07:00"
 }

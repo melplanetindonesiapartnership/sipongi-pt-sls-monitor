@@ -3,10 +3,10 @@
   "pt_name": "PT Plantindo Agro Subur",
   "date": "2026-10-01",
   "query_period": {
-    "from": "2026-09-05",
-    "to": "2026-10-04"
+    "from": "2026-09-06",
+    "to": "2026-10-05"
   },
-  "generated_wib": "2026-10-04T10:47:07+07:00",
+  "generated_wib": "2026-10-05T07:39:23+07:00",
   "hotspot_count": 33,
   "features": [
     {
@@ -1058,6 +1058,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          114.83054,
+          -2.87315
+        ]
+      },
+      "properties": {
+        "confidence": "high",
+        "confidence_value": null,
+        "sumber": "NASA-NOAA20",
+        "date_hotspot": "Kamis, 01 Oktober 2026 12:23:00",
+        "date_hotspot_ori": "2026-10-01T05:23:00.000000Z",
+        "provinsi": null,
+        "kabkota": "Barito Kuala",
+        "desa": "Banitan",
+        "hs_id": "2026-10-01T05:23:00.000000Z",
+        "provinsi_id": 12,
+        "long": 114.83054,
+        "ori_sumber": null,
+        "desa_id": null,
+        "counter": 1,
+        "confidence_level": "high",
+        "kawasan": "",
+        "kecamatan": "Bakumpai",
+        "nama_provinsi": "Kalimantan Selatan",
+        "pulau": "",
+        "route_create": "https://opsroom.sipongidata.my.id/daops/laporan/groundcheck/create/form",
+        "hotspot_date": "2026-10-01",
+        "distance_hgu_km": 0.814,
+        "zone": "0–1 km",
+        "location_status": "OUTSIDE HGU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           114.85045,
           -2.91769
         ]
@@ -1157,42 +1193,6 @@
         "route_create": "https://opsroom.sipongidata.my.id/daops/laporan/groundcheck/create/form",
         "hotspot_date": "2026-10-01",
         "distance_hgu_km": 0.709,
-        "zone": "0–1 km",
-        "location_status": "OUTSIDE HGU"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          114.83054,
-          -2.87315
-        ]
-      },
-      "properties": {
-        "confidence": "high",
-        "confidence_value": null,
-        "sumber": "NASA-NOAA20",
-        "date_hotspot": "Kamis, 01 Oktober 2026 12:23:00",
-        "date_hotspot_ori": "2026-10-01T05:23:00.000000Z",
-        "provinsi": null,
-        "kabkota": "Barito Kuala",
-        "desa": "Banitan",
-        "hs_id": "2026-10-01T05:23:00.000000Z",
-        "provinsi_id": 12,
-        "long": 114.83054,
-        "ori_sumber": null,
-        "desa_id": null,
-        "counter": 1,
-        "confidence_level": "high",
-        "kawasan": "",
-        "kecamatan": "Bakumpai",
-        "nama_provinsi": "Kalimantan Selatan",
-        "pulau": "",
-        "route_create": "https://opsroom.sipongidata.my.id/daops/laporan/groundcheck/create/form",
-        "hotspot_date": "2026-10-01",
-        "distance_hgu_km": 0.814,
         "zone": "0–1 km",
         "location_status": "OUTSIDE HGU"
       }
