@@ -3,10 +3,10 @@
   "pt_name": "PT SLS",
   "date": "2026-10-07",
   "query_period": {
-    "from": "2026-09-09",
-    "to": "2026-10-08"
+    "from": "2026-09-10",
+    "to": "2026-10-09"
   },
-  "generated_wib": "2026-10-08T07:39:55+07:00",
+  "generated_wib": "2026-10-09T07:42:34+07:00",
   "hotspot_count": 3,
   "features": [
     {
@@ -50,42 +50,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.17035,
-          -2.71662
-        ]
-      },
-      "properties": {
-        "confidence": "medium",
-        "confidence_value": null,
-        "sumber": "NASA-NOAA20",
-        "date_hotspot": "Rabu, 07 Oktober 2026 01:11:00",
-        "date_hotspot_ori": "2026-10-06T18:11:00.000000Z",
-        "provinsi": null,
-        "kabkota": "Hulu Sungai Selatan",
-        "desa": "Pantai Ulin",
-        "hs_id": "2026-10-06T18:11:00.000000Z",
-        "provinsi_id": 12,
-        "long": 115.17035,
-        "ori_sumber": null,
-        "desa_id": null,
-        "counter": 1,
-        "confidence_level": "medium",
-        "kawasan": "",
-        "kecamatan": "Simpur",
-        "nama_provinsi": "Kalimantan Selatan",
-        "pulau": "",
-        "route_create": "https://opsroom.sipongidata.my.id/daops/laporan/groundcheck/create/form",
-        "hotspot_date": "2026-10-07",
-        "distance_hgu_km": 0.961,
-        "zone": "0–1 km",
-        "location_status": "OUTSIDE HGU"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           115.17256,
           -2.71829
         ]
@@ -113,6 +77,42 @@
         "route_create": "https://opsroom.sipongidata.my.id/daops/laporan/groundcheck/create/form",
         "hotspot_date": "2026-10-07",
         "distance_hgu_km": 0.704,
+        "zone": "0–1 km",
+        "location_status": "OUTSIDE HGU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.17035,
+          -2.71662
+        ]
+      },
+      "properties": {
+        "confidence": "medium",
+        "confidence_value": null,
+        "sumber": "NASA-NOAA20",
+        "date_hotspot": "Rabu, 07 Oktober 2026 01:11:00",
+        "date_hotspot_ori": "2026-10-06T18:11:00.000000Z",
+        "provinsi": null,
+        "kabkota": "Hulu Sungai Selatan",
+        "desa": "Pantai Ulin",
+        "hs_id": "2026-10-06T18:11:00.000000Z",
+        "provinsi_id": 12,
+        "long": 115.17035,
+        "ori_sumber": null,
+        "desa_id": null,
+        "counter": 1,
+        "confidence_level": "medium",
+        "kawasan": "",
+        "kecamatan": "Simpur",
+        "nama_provinsi": "Kalimantan Selatan",
+        "pulau": "",
+        "route_create": "https://opsroom.sipongidata.my.id/daops/laporan/groundcheck/create/form",
+        "hotspot_date": "2026-10-07",
+        "distance_hgu_km": 0.961,
         "zone": "0–1 km",
         "location_status": "OUTSIDE HGU"
       }

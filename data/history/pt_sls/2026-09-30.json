@@ -3,10 +3,10 @@
   "pt_name": "PT SLS",
   "date": "2026-09-30",
   "query_period": {
-    "from": "2026-09-09",
-    "to": "2026-10-08"
+    "from": "2026-09-10",
+    "to": "2026-10-09"
   },
-  "generated_wib": "2026-10-08T07:39:55+07:00",
+  "generated_wib": "2026-10-09T07:42:34+07:00",
   "hotspot_count": 4,
   "features": [
     {
@@ -14,8 +14,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.09806,
-          -2.70016
+          115.05016,
+          -2.83792
         ]
       },
       "properties": {
@@ -25,22 +25,22 @@
         "date_hotspot": "Rabu, 30 September 2026 12:40:00",
         "date_hotspot_ori": "2026-09-30T05:40:00.000000Z",
         "provinsi": null,
-        "kabkota": "Hulu Sungai Selatan",
-        "desa": "Muning Tengah",
+        "kabkota": "Tapin",
+        "desa": "Sungai Rutas",
         "hs_id": "2026-09-30T05:40:00.000000Z",
         "provinsi_id": 12,
-        "long": 115.09806,
+        "long": 115.05016,
         "ori_sumber": null,
         "desa_id": null,
         "counter": 1,
         "confidence_level": "low",
         "kawasan": "",
-        "kecamatan": "Daha Selatan",
+        "kecamatan": "Candi Laras Selatan",
         "nama_provinsi": "Kalimantan Selatan",
         "pulau": "",
         "route_create": "https://opsroom.sipongidata.my.id/daops/laporan/groundcheck/create/form",
         "hotspot_date": "2026-09-30",
-        "distance_hgu_km": 4.685,
+        "distance_hgu_km": 3.014,
         "zone": "3–5 km",
         "location_status": "OUTSIDE HGU"
       }
@@ -86,8 +86,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.05016,
-          -2.83792
+          115.09806,
+          -2.70016
         ]
       },
       "properties": {
@@ -97,22 +97,22 @@
         "date_hotspot": "Rabu, 30 September 2026 12:40:00",
         "date_hotspot_ori": "2026-09-30T05:40:00.000000Z",
         "provinsi": null,
-        "kabkota": "Tapin",
-        "desa": "Sungai Rutas",
+        "kabkota": "Hulu Sungai Selatan",
+        "desa": "Muning Tengah",
         "hs_id": "2026-09-30T05:40:00.000000Z",
         "provinsi_id": 12,
-        "long": 115.05016,
+        "long": 115.09806,
         "ori_sumber": null,
         "desa_id": null,
         "counter": 1,
         "confidence_level": "low",
         "kawasan": "",
-        "kecamatan": "Candi Laras Selatan",
+        "kecamatan": "Daha Selatan",
         "nama_provinsi": "Kalimantan Selatan",
         "pulau": "",
         "route_create": "https://opsroom.sipongidata.my.id/daops/laporan/groundcheck/create/form",
         "hotspot_date": "2026-09-30",
-        "distance_hgu_km": 3.014,
+        "distance_hgu_km": 4.685,
         "zone": "3–5 km",
         "location_status": "OUTSIDE HGU"
       }
