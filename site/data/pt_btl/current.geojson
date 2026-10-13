@@ -4,8 +4,8 @@
   "properties": {
     "pt_id": "pt_btl",
     "pt_name": "PT Bumi Tata Lestari",
-    "period_start": "2026-09-13",
-    "period_end": "2026-10-12",
+    "period_start": "2026-09-14",
+    "period_end": "2026-10-13",
     "radius_km": 5
   },
   "features": [
