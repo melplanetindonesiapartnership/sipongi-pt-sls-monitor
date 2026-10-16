@@ -1,0 +1,12 @@
+{
+  "pt_id": "pt_bsl",
+  "pt_name": "PT Bintang Sawit Lestari",
+  "date": "2026-10-16",
+  "query_period": {
+    "from": "2026-09-17",
+    "to": "2026-10-16"
+  },
+  "generated_wib": "2026-10-16T11:31:26+07:00",
+  "hotspot_count": 0,
+  "features": []
+}
