@@ -1,0 +1,49 @@
+{
+  "pt_id": "pt_pas",
+  "pt_name": "PT Plantindo Agro Subur",
+  "date": "2026-10-17",
+  "query_period": {
+    "from": "2026-09-18",
+    "to": "2026-10-17"
+  },
+  "generated_wib": "2026-10-17T11:25:09+07:00",
+  "hotspot_count": 1,
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.88802,
+          -2.87505
+        ]
+      },
+      "properties": {
+        "confidence": "medium",
+        "confidence_value": null,
+        "sumber": "NASA-SNPP",
+        "date_hotspot": "Sabtu, 17 Oktober 2026 01:04:00",
+        "date_hotspot_ori": "2026-10-16T18:04:00.000000Z",
+        "provinsi": null,
+        "kabkota": "Tapin",
+        "desa": "Pariok",
+        "hs_id": "2026-10-16T18:04:00.000000Z",
+        "provinsi_id": 12,
+        "long": 114.88802,
+        "ori_sumber": null,
+        "desa_id": null,
+        "counter": 1,
+        "confidence_level": "medium",
+        "kawasan": "",
+        "kecamatan": "Candi Laras Utara",
+        "nama_provinsi": "Kalimantan Selatan",
+        "pulau": "",
+        "route_create": "https://opsroom.sipongidata.my.id/daops/laporan/groundcheck/create/form",
+        "hotspot_date": "2026-10-17",
+        "distance_hgu_km": 0.974,
+        "zone": "0–1 km",
+        "location_status": "OUTSIDE HGU"
+      }
+    }
+  ]
+}

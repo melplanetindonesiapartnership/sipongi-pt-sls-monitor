@@ -4,8 +4,8 @@
   "properties": {
     "pt_id": "pt_btl",
     "pt_name": "PT Bumi Tata Lestari",
-    "period_start": "2026-09-17",
-    "period_end": "2026-10-16",
+    "period_start": "2026-09-18",
+    "period_end": "2026-10-17",
     "radius_km": 5
   },
   "features": [
@@ -14,22 +14,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.70924,
-          0.80087
+          110.70786,
+          0.80063
         ]
       },
       "properties": {
         "confidence": "medium",
         "confidence_value": null,
-        "sumber": "NASA-SNPP",
-        "date_hotspot": "Minggu, 27 September 2026 00:39:00",
-        "date_hotspot_ori": "2026-09-26T17:39:00.000000Z",
+        "sumber": "NASA-NOAA20",
+        "date_hotspot": "Minggu, 27 September 2026 00:56:00",
+        "date_hotspot_ori": "2026-09-26T17:56:00.000000Z",
         "provinsi": null,
         "kabkota": "Sanggau",
         "desa": "Melenggang",
-        "hs_id": "2026-09-26T17:39:00.000000Z",
+        "hs_id": "2026-09-26T17:56:00.000000Z",
         "provinsi_id": 11,
-        "long": 110.70924,
+        "long": 110.70786,
         "ori_sumber": null,
         "desa_id": null,
         "counter": 1,
@@ -86,22 +86,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.70786,
-          0.80063
+          110.70924,
+          0.80087
         ]
       },
       "properties": {
         "confidence": "medium",
         "confidence_value": null,
-        "sumber": "NASA-NOAA20",
-        "date_hotspot": "Minggu, 27 September 2026 00:56:00",
-        "date_hotspot_ori": "2026-09-26T17:56:00.000000Z",
+        "sumber": "NASA-SNPP",
+        "date_hotspot": "Minggu, 27 September 2026 00:39:00",
+        "date_hotspot_ori": "2026-09-26T17:39:00.000000Z",
         "provinsi": null,
         "kabkota": "Sanggau",
         "desa": "Melenggang",
-        "hs_id": "2026-09-26T17:56:00.000000Z",
+        "hs_id": "2026-09-26T17:39:00.000000Z",
         "provinsi_id": 11,
-        "long": 110.70786,
+        "long": 110.70924,
         "ori_sumber": null,
         "desa_id": null,
         "counter": 1,
