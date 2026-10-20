@@ -1,0 +1,12 @@
+{
+  "pt_id": "pt_btl",
+  "pt_name": "PT Bumi Tata Lestari",
+  "date": "2026-10-20",
+  "query_period": {
+    "from": "2026-09-21",
+    "to": "2026-10-20"
+  },
+  "generated_wib": "2026-10-20T11:50:14+07:00",
+  "hotspot_count": 0,
+  "features": []
+}
