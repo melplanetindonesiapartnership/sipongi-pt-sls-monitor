@@ -3,10 +3,10 @@
   "pt_name": "PT SLS",
   "date": "2026-10-18",
   "query_period": {
-    "from": "2026-09-21",
-    "to": "2026-10-20"
+    "from": "2026-09-22",
+    "to": "2026-10-21"
   },
-  "generated_wib": "2026-10-20T11:50:11+07:00",
+  "generated_wib": "2026-10-21T11:45:22+07:00",
   "hotspot_count": 4,
   "features": [
     {
@@ -50,22 +50,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.16534,
-          -2.79517
+          115.16636,
+          -2.79689
         ]
       },
       "properties": {
         "confidence": "medium",
         "confidence_value": null,
-        "sumber": "NASA-SNPP",
-        "date_hotspot": "Minggu, 18 Oktober 2026 00:43:00",
-        "date_hotspot_ori": "2026-10-17T17:43:00.000000Z",
+        "sumber": "NASA-NOAA20",
+        "date_hotspot": "Minggu, 18 Oktober 2026 01:04:00",
+        "date_hotspot_ori": "2026-10-17T18:04:00.000000Z",
         "provinsi": null,
         "kabkota": "Hulu Sungai Selatan",
         "desa": "Tambingkar",
-        "hs_id": "2026-10-17T17:43:00.000000Z",
+        "hs_id": "2026-10-17T18:04:00.000000Z",
         "provinsi_id": 12,
-        "long": 115.16534,
+        "long": 115.16636,
         "ori_sumber": null,
         "desa_id": null,
         "counter": 1,
@@ -86,22 +86,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.16636,
-          -2.79689
+          115.16534,
+          -2.79517
         ]
       },
       "properties": {
         "confidence": "medium",
         "confidence_value": null,
-        "sumber": "NASA-NOAA20",
-        "date_hotspot": "Minggu, 18 Oktober 2026 01:04:00",
-        "date_hotspot_ori": "2026-10-17T18:04:00.000000Z",
+        "sumber": "NASA-SNPP",
+        "date_hotspot": "Minggu, 18 Oktober 2026 00:43:00",
+        "date_hotspot_ori": "2026-10-17T17:43:00.000000Z",
         "provinsi": null,
         "kabkota": "Hulu Sungai Selatan",
         "desa": "Tambingkar",
-        "hs_id": "2026-10-17T18:04:00.000000Z",
+        "hs_id": "2026-10-17T17:43:00.000000Z",
         "provinsi_id": 12,
-        "long": 115.16636,
+        "long": 115.16534,
         "ori_sumber": null,
         "desa_id": null,
         "counter": 1,

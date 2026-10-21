@@ -1,0 +1,49 @@
+{
+  "pt_id": "pt_sls",
+  "pt_name": "PT SLS",
+  "date": "2026-10-21",
+  "query_period": {
+    "from": "2026-09-22",
+    "to": "2026-10-21"
+  },
+  "generated_wib": "2026-10-21T11:45:22+07:00",
+  "hotspot_count": 1,
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.11657,
+          -2.78221
+        ]
+      },
+      "properties": {
+        "confidence": "medium",
+        "confidence_value": null,
+        "sumber": "NASA-SNPP",
+        "date_hotspot": "Rabu, 21 Oktober 2026 01:28:00",
+        "date_hotspot_ori": "2026-10-20T18:28:00.000000Z",
+        "provinsi": null,
+        "kabkota": "Hulu Sungai Selatan",
+        "desa": "Bago Tanggul",
+        "hs_id": "2026-10-20T18:28:00.000000Z",
+        "provinsi_id": 12,
+        "long": 115.11657,
+        "ori_sumber": null,
+        "desa_id": null,
+        "counter": 1,
+        "confidence_level": "medium",
+        "kawasan": "",
+        "kecamatan": "Kalumpang",
+        "nama_provinsi": "Kalimantan Selatan",
+        "pulau": "",
+        "route_create": "https://opsroom.sipongidata.my.id/daops/laporan/groundcheck/create/form",
+        "hotspot_date": "2026-10-21",
+        "distance_hgu_km": 0.0,
+        "zone": "Inside HGU",
+        "location_status": "INSIDE HGU"
+      }
+    }
+  ]
+}
