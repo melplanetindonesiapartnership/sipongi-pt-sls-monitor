@@ -4,47 +4,11 @@
   "properties": {
     "pt_id": "pt_btl",
     "pt_name": "PT Bumi Tata Lestari",
-    "period_start": "2026-09-29",
-    "period_end": "2026-10-28",
+    "period_start": "2026-09-30",
+    "period_end": "2026-10-29",
     "radius_km": 5
   },
   "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          110.70979,
-          0.79867
-        ]
-      },
-      "properties": {
-        "confidence": "medium",
-        "confidence_value": null,
-        "sumber": "NASA-NOAA20",
-        "date_hotspot": "Minggu, 18 Oktober 2026 01:04:00",
-        "date_hotspot_ori": "2026-10-17T18:04:00.000000Z",
-        "provinsi": null,
-        "kabkota": "Sanggau",
-        "desa": "Melenggang",
-        "hs_id": "2026-10-17T18:04:00.000000Z",
-        "provinsi_id": 11,
-        "long": 110.70979,
-        "ori_sumber": null,
-        "desa_id": null,
-        "counter": 1,
-        "confidence_level": "medium",
-        "kawasan": "",
-        "kecamatan": "Sekayam",
-        "nama_provinsi": "Kalimantan Barat",
-        "pulau": "",
-        "route_create": "https://opsroom.sipongidata.my.id/daops/laporan/groundcheck/create/form",
-        "hotspot_date": "2026-10-18",
-        "distance_hgu_km": 0.0,
-        "zone": "Inside HGU",
-        "location_status": "INSIDE HGU"
-      }
-    },
     {
       "type": "Feature",
       "geometry": {
@@ -76,6 +40,42 @@
         "pulau": "",
         "route_create": "https://opsroom.sipongidata.my.id/daops/laporan/groundcheck/create/form",
         "hotspot_date": "2026-10-06",
+        "distance_hgu_km": 0.0,
+        "zone": "Inside HGU",
+        "location_status": "INSIDE HGU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.70979,
+          0.79867
+        ]
+      },
+      "properties": {
+        "confidence": "medium",
+        "confidence_value": null,
+        "sumber": "NASA-NOAA20",
+        "date_hotspot": "Minggu, 18 Oktober 2026 01:04:00",
+        "date_hotspot_ori": "2026-10-17T18:04:00.000000Z",
+        "provinsi": null,
+        "kabkota": "Sanggau",
+        "desa": "Melenggang",
+        "hs_id": "2026-10-17T18:04:00.000000Z",
+        "provinsi_id": 11,
+        "long": 110.70979,
+        "ori_sumber": null,
+        "desa_id": null,
+        "counter": 1,
+        "confidence_level": "medium",
+        "kawasan": "",
+        "kecamatan": "Sekayam",
+        "nama_provinsi": "Kalimantan Barat",
+        "pulau": "",
+        "route_create": "https://opsroom.sipongidata.my.id/daops/laporan/groundcheck/create/form",
+        "hotspot_date": "2026-10-18",
         "distance_hgu_km": 0.0,
         "zone": "Inside HGU",
         "location_status": "INSIDE HGU"
