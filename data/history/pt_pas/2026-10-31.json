@@ -1,0 +1,12 @@
+{
+  "pt_id": "pt_pas",
+  "pt_name": "PT Plantindo Agro Subur",
+  "date": "2026-10-31",
+  "query_period": {
+    "from": "2026-10-02",
+    "to": "2026-10-31"
+  },
+  "generated_wib": "2026-10-31T12:39:35+07:00",
+  "hotspot_count": 0,
+  "features": []
+}
