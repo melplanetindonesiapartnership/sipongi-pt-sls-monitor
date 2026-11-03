@@ -4,8 +4,8 @@
   "properties": {
     "pt_id": "pt_bsl",
     "pt_name": "PT Bintang Sawit Lestari",
-    "period_start": "2026-10-04",
-    "period_end": "2026-11-02",
+    "period_start": "2026-10-05",
+    "period_end": "2026-11-03",
     "radius_km": 5
   },
   "features": [
