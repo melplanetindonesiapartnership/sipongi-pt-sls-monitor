@@ -4,46 +4,9 @@
   "properties": {
     "pt_id": "pt_bsl",
     "pt_name": "PT Bintang Sawit Lestari",
-    "period_start": "2026-10-05",
-    "period_end": "2026-11-03",
+    "period_start": "2026-10-06",
+    "period_end": "2026-11-04",
     "radius_km": 5
   },
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          111.11456,
-          -0.21973
-        ]
-      },
-      "properties": {
-        "confidence": "medium",
-        "confidence_value": null,
-        "sumber": "NASA-MODIS",
-        "date_hotspot": "Senin, 05 Oktober 2026 15:28:00",
-        "date_hotspot_ori": "2026-10-05T08:28:00.000000Z",
-        "provinsi": null,
-        "kabkota": "Sintang",
-        "desa": "Sekubang",
-        "hs_id": "2026-10-05T08:28:00.000000Z",
-        "provinsi_id": 11,
-        "long": 111.11456,
-        "ori_sumber": null,
-        "desa_id": null,
-        "counter": 1,
-        "confidence_level": "medium",
-        "kawasan": "",
-        "kecamatan": "Sepauk",
-        "nama_provinsi": "Kalimantan Barat",
-        "pulau": "",
-        "route_create": "https://opsroom.sipongidata.my.id/daops/laporan/groundcheck/create/form",
-        "hotspot_date": "2026-10-05",
-        "distance_hgu_km": 4.761,
-        "zone": "3–5 km",
-        "location_status": "OUTSIDE HGU"
-      }
-    }
-  ]
+  "features": []
 }
