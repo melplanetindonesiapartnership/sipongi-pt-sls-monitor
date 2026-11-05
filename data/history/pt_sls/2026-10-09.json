@@ -3,10 +3,10 @@
   "pt_name": "PT SLS",
   "date": "2026-10-09",
   "query_period": {
-    "from": "2026-10-06",
-    "to": "2026-11-04"
+    "from": "2026-10-07",
+    "to": "2026-11-05"
   },
-  "generated_wib": "2026-11-04T13:20:11+07:00",
+  "generated_wib": "2026-11-05T13:44:40+07:00",
   "hotspot_count": 0,
   "features": []
 }
