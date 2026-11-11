@@ -3,10 +3,47 @@
   "pt_name": "PT SLS",
   "date": "2026-11-10",
   "query_period": {
-    "from": "2026-10-12",
-    "to": "2026-11-10"
+    "from": "2026-10-13",
+    "to": "2026-11-11"
   },
-  "generated_wib": "2026-11-10T14:16:53+07:00",
-  "hotspot_count": 0,
-  "features": []
+  "generated_wib": "2026-11-11T13:16:57+07:00",
+  "hotspot_count": 1,
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.11626,
+          -2.80946
+        ]
+      },
+      "properties": {
+        "confidence": "medium",
+        "confidence_value": null,
+        "sumber": "NASA-NOAA20",
+        "date_hotspot": "Selasa, 10 November 2026 13:12:00",
+        "date_hotspot_ori": "2026-11-10T06:12:00.000000Z",
+        "provinsi": null,
+        "kabkota": "Hulu Sungai Selatan",
+        "desa": "Balimau",
+        "hs_id": "2026-11-10T06:12:00.000000Z",
+        "provinsi_id": 12,
+        "long": 115.11626,
+        "ori_sumber": null,
+        "desa_id": null,
+        "counter": 1,
+        "confidence_level": "medium",
+        "kawasan": "",
+        "kecamatan": "Kalumpang",
+        "nama_provinsi": "Kalimantan Selatan",
+        "pulau": "",
+        "route_create": "https://opsroom.sipongidata.my.id/daops/laporan/groundcheck/create/form",
+        "hotspot_date": "2026-11-10",
+        "distance_hgu_km": 0.0,
+        "zone": "Inside HGU",
+        "location_status": "INSIDE HGU"
+      }
+    }
+  ]
 }
