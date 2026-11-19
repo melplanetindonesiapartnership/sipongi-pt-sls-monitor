@@ -3,10 +3,10 @@
   "pt_name": "PT Bintang Sawit Lestari",
   "province_code": "11",
   "province_name": "Kalimantan Barat",
-  "period_start": "2026-10-20",
-  "period_end": "2026-11-18",
+  "period_start": "2026-10-21",
+  "period_end": "2026-11-19",
   "timezone": "Asia/Jakarta",
-  "total_response_sipongi": 5764,
+  "total_response_sipongi": 5553,
   "total": 0,
   "total_within_5km": 0,
   "inside_hgu": 0,
@@ -27,6 +27,6 @@
   "status": "Belum dapat dibandingkan",
   "radius_km": 5,
   "source": "SIPONGI KEMENHUT",
-  "last_updated_wib": "2026-11-18T14:26:45+07:00",
-  "last_updated_utc": "2026-11-18T07:26:45Z"
+  "last_updated_wib": "2026-11-19T14:23:50+07:00",
+  "last_updated_utc": "2026-11-19T07:23:50Z"
 }
