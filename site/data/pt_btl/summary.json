@@ -3,10 +3,10 @@
   "pt_name": "PT Bumi Tata Lestari",
   "province_code": "11",
   "province_name": "Kalimantan Barat",
-  "period_start": "2026-10-21",
-  "period_end": "2026-11-19",
+  "period_start": "2026-10-22",
+  "period_end": "2026-11-20",
   "timezone": "Asia/Jakarta",
-  "total_response_sipongi": 5553,
+  "total_response_sipongi": 5025,
   "total": 0,
   "total_within_5km": 0,
   "inside_hgu": 0,
@@ -27,6 +27,6 @@
   "status": "Belum dapat dibandingkan",
   "radius_km": 5,
   "source": "SIPONGI KEMENHUT",
-  "last_updated_wib": "2026-11-19T14:23:51+07:00",
-  "last_updated_utc": "2026-11-19T07:23:51Z"
+  "last_updated_wib": "2026-11-20T14:14:10+07:00",
+  "last_updated_utc": "2026-11-20T07:14:10Z"
 }
