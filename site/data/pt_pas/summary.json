@@ -3,10 +3,10 @@
   "pt_name": "PT Plantindo Agro Subur",
   "province_code": "12",
   "province_name": "Kalimantan Selatan",
-  "period_start": "2026-10-25",
-  "period_end": "2026-11-23",
+  "period_start": "2026-10-26",
+  "period_end": "2026-11-24",
   "timezone": "Asia/Jakarta",
-  "total_response_sipongi": 1648,
+  "total_response_sipongi": 1583,
   "total": 1,
   "total_within_5km": 1,
   "inside_hgu": 0,
@@ -27,6 +27,6 @@
   "status": "Belum dapat dibandingkan",
   "radius_km": 5,
   "source": "SIPONGI KEMENHUT",
-  "last_updated_wib": "2026-11-23T14:36:15+07:00",
-  "last_updated_utc": "2026-11-23T07:36:15Z"
+  "last_updated_wib": "2026-11-24T16:53:11+07:00",
+  "last_updated_utc": "2026-11-24T09:53:11Z"
 }
