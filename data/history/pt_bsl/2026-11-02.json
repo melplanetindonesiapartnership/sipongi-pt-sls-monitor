@@ -3,10 +3,10 @@
   "pt_name": "PT Bintang Sawit Lestari",
   "date": "2026-11-02",
   "query_period": {
-    "from": "2026-10-26",
-    "to": "2026-11-24"
+    "from": "2026-10-27",
+    "to": "2026-11-25"
   },
-  "generated_wib": "2026-11-24T16:53:11+07:00",
+  "generated_wib": "2026-11-25T15:31:38+07:00",
   "hotspot_count": 0,
   "features": []
 }
