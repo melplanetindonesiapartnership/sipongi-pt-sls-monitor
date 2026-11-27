@@ -3,10 +3,10 @@
   "pt_name": "PT SLS",
   "province_code": "12",
   "province_name": "Kalimantan Selatan",
-  "period_start": "2026-10-28",
-  "period_end": "2026-11-26",
+  "period_start": "2026-10-29",
+  "period_end": "2026-11-27",
   "timezone": "Asia/Jakarta",
-  "total_response_sipongi": 1472,
+  "total_response_sipongi": 1470,
   "total": 11,
   "total_within_5km": 11,
   "inside_hgu": 1,
@@ -27,6 +27,6 @@
   "status": "Belum dapat dibandingkan",
   "radius_km": 5,
   "source": "SIPONGI KEMENHUT",
-  "last_updated_wib": "2026-11-26T15:15:50+07:00",
-  "last_updated_utc": "2026-11-26T08:15:50Z"
+  "last_updated_wib": "2026-11-27T15:29:54+07:00",
+  "last_updated_utc": "2026-11-27T08:29:54Z"
 }
