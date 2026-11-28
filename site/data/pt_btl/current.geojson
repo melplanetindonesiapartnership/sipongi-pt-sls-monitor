@@ -4,9 +4,46 @@
   "properties": {
     "pt_id": "pt_btl",
     "pt_name": "PT Bumi Tata Lestari",
-    "period_start": "2026-10-29",
-    "period_end": "2026-11-27",
+    "period_start": "2026-10-30",
+    "period_end": "2026-11-28",
     "radius_km": 5
   },
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.74924,
+          0.76536
+        ]
+      },
+      "properties": {
+        "confidence": "medium",
+        "confidence_value": null,
+        "sumber": "NASA-NOAA20",
+        "date_hotspot": "Jumat, 27 November 2026 12:54:00",
+        "date_hotspot_ori": "2026-11-27T05:54:00.000000Z",
+        "provinsi": null,
+        "kabkota": "Sanggau",
+        "desa": "Melenggang",
+        "hs_id": "2026-11-27T05:54:00.000000Z",
+        "provinsi_id": 11,
+        "long": 110.74924,
+        "ori_sumber": null,
+        "desa_id": null,
+        "counter": 1,
+        "confidence_level": "medium",
+        "kawasan": "",
+        "kecamatan": "Sekayam",
+        "nama_provinsi": "Kalimantan Barat",
+        "pulau": "",
+        "route_create": "https://opsroom.sipongidata.my.id/daops/laporan/groundcheck/create/form",
+        "hotspot_date": "2026-11-27",
+        "distance_hgu_km": 4.616,
+        "zone": "3–5 km",
+        "location_status": "OUTSIDE HGU"
+      }
+    }
+  ]
 }
